@@ -332,7 +332,7 @@ body{
     
 }
 
-.footer__lista__escritoras__item{
+.footer__lista__escritoras__item:hover{
     margin-left: 2%;
     font-size: x-large;
     
