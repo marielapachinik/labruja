@@ -124,10 +124,11 @@ body{
     
 }
 
-.encabezado__lista__item{
+.encabezado__lista__item:hover{
     height: fit-content;
     text-decoration: none;
     display:inline-block;
+    transform: scale(2);
     
 }
 
